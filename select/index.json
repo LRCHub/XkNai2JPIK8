@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "導火",
+  "base_artist": "月詠み",
+  "createdAt": "2026-02-09T16:22:27.712304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "導火 (Instrumental)",
+      "artist": "DeNeel",
+      "has_synced": false,
+      "path": "select/01_導火_(Instrumental)_DeNeel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "導火",
+      "artist": "DeNeel",
+      "has_synced": false,
+      "path": "select/02_導火_DeNeel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "導火",
+      "artist": "月詠み",
+      "has_synced": true,
+      "path": "select/03_導火_月詠み.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "導火",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_導火_月詠み.txt"
+    }
+  ]
+}
